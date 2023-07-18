@@ -1,4 +1,7 @@
+#OLD VERSIONS: JDclassification-breezydb-1,2,3 AND JobDescription_DegreeIdentification
+
 # Jobdescription_DegreeIdentification
+#Check The notes on the excel sheet of summary of results (important notes) saved in OwnCload
 #These codes aim to analyse the job description in Breezy dataset to identify if the competencies mentionned in the job description #correspond to a PhD degree. Our bench mark for the competencies that PhDs possess is the core competency of PhD published in 'The core competencies of PhDs' https://www.researchgate.net/publication/277952119_The_core_competencies_of_PhDs.
 To do so:
 #1-  We removed all the positions without a job description
